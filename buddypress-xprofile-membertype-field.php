@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Buddypress xProfile Memeber Type Field
-Description: Add a Member Type custom field type to Extended Profiles in BuddyPress.
+Plugin Name: Buddypress xProfile Member Type Field
+Description: Add a Member Type select field type to Extended Profiles in BuddyPress.
 Version: 1.0.0
 Author: modemlooper, AppPresser
 Author URI: https://apppresser.com
